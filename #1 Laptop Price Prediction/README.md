@@ -17,7 +17,6 @@ The final model achieves an **R² score of 0.88**, explaining 88% of the variati
 * **Programming Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 * **Development Environment:** Jupyter Notebook
-* **Version Control:** GitHub
 
 ---
 
