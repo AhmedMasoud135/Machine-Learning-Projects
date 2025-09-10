@@ -85,5 +85,3 @@ The core methodology involves calculating three key metrics for each customer:
 - **Cluster 2 (At-Risk)** represents **39%** of customers but only **6%** of revenue
 
 
----
-⭐ **If you found this project helpful, please give it a star!** ⭐
